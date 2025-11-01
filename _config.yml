@@ -1,0 +1,25 @@
+title:              AI для людей. Ідеї для бізнесу
+email:              profirise@gmail.com
+description:        Штучний інтелект — він може бути корисним не лише великим компаніям, а й нам звичайним людям.
+author:             Profirise
+baseurl:            ""
+url:                "https://yourusername.github.io"
+
+# Social Profiles
+twitter_username:   NeuroPrBot
+github_username:    profirise
+facebook_username:  profirise
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
